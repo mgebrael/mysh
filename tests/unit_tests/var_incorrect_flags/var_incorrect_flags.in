@@ -1,0 +1,8 @@
+var flag -s
+echo ${flag}
+var -Se student myself
+var 'one arg'
+var -s 'still one arg'
+var -i three arguments
+var ! hi
+var

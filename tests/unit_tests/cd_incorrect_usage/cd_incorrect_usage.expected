@@ -1,0 +1,3 @@
+cd: too many arguments
+cd: no such file or directory: two/fish
+cd: not a directory: /home/mysh.py

@@ -1,0 +1,5 @@
+pwd
+cd /usr/local/share/man
+pwd
+pwd -P
+

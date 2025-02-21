@@ -1,0 +1,2 @@
+var testing 123
+echo ${testing}

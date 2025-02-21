@@ -1,0 +1,11 @@
+>> exit: shell built-in command
+>> cd: shell built-in command
+pwd: shell built-in command
+var: shell built-in command
+>> which: shell built-in command
+/usr/sbin/echo
+/usr/sbin/ls
+/usr/sbin/uniq
+>> /usr/sbin/tac
+taco not found
+>> 

@@ -1,0 +1,3 @@
+exit with too many arguments
+exit 'non-integer argument'
+exit 66

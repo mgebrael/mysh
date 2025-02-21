@@ -1,0 +1,6 @@
+which
+which *
+which .
+which ..
+which ../echo
+which ../../../../home/mysh.py

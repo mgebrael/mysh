@@ -1,0 +1,6 @@
+var newdir "~/tests"
+cd ${newdir}/end_to_end_tests/pipe_and_link
+ln -s ${newdir} linkdir
+cd linkdir | pwd -P
+var -s commands "ls /usr/bin | head"
+which ${commands}

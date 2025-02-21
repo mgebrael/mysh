@@ -1,0 +1,12 @@
+cd ~
+cd tests
+pwd
+cd ..
+cd .
+pwd
+cd /home/tests/unit_tests/change_directory
+pwd
+cd
+pwd
+cd ./.././././../.
+pwd

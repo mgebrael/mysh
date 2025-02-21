@@ -1,0 +1,9 @@
+var PATH "/home/tests/end_to_end_tests/reset_path"
+echo "From a new path! ${PATH}"
+ls /home
+var PATH "."
+/usr/bin/echo "Current path: ${PATH}"
+cd ~/tests
+echo "won't work :("
+cd end_to_end_tests/reset_path
+echo "will work :)"

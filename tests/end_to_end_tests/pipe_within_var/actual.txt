@@ -1,0 +1,21 @@
+>> >> /home/tests/end_to_end_tests/pipe_within_var
+>> >> >> >> aback
+abaci
+ABA
+AB
+AA's
+Aaron's
+Aaron
+aardvarks
+aardvark's
+aardvark
+Aaliyah's
+Aaliyah
+aah
+Aachen's
+Aachen
+AAA
+AA
+A
+
+>> 

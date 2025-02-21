@@ -1,0 +1,3 @@
+mysh: syntax error: invalid characters for variable invalid!characters
+mysh: syntax error: invalid characters for variable ^_^
+mysh: syntax error: invalid characters for variable ---

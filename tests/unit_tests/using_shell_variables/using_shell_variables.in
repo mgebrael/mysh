@@ -1,0 +1,5 @@
+echo ${PATH}
+echo "Prompt for this shell is ${PROMPT}"
+echo '${MYSH_VERSION} version'
+echo directory:${PWD}
+${USER}

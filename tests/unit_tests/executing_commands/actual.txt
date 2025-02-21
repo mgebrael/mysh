@@ -1,0 +1,10 @@
+>> >> mycmd.py
+mysh.py
+parsing.py
+__pycache__
+README.md
+seeker.py
+setter.py
+tests
+>> hello
+>> 

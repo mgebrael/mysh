@@ -1,0 +1,4 @@
+pwd -1 -r
+pwd -pP
+pwd -P print
+pwd with many arguments

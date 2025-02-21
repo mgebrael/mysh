@@ -1,0 +1,3 @@
+cd
+ls
+./tests/unit_tests/executing_commands/echo hello

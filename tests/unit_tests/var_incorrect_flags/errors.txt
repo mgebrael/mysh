@@ -1,0 +1,6 @@
+var: invalid option: -S
+var: expected 2 arguments, got 1
+var: expected 2 arguments, got 1
+var: invalid option: -i
+var: invalid characters for variable !
+var: expected 2 arguments, got 0

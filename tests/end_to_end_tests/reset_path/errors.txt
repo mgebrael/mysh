@@ -1,0 +1,2 @@
+mysh: command not found: ls
+mysh: command not found: echo

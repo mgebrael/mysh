@@ -1,0 +1,4 @@
+var -s we_are_at "pwd"
+echo ${we_are_at}
+var -s codelines "cat /home/mysh.py | head -n 5"
+echo ${codelines}

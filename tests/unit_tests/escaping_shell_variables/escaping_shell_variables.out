@@ -1,0 +1,4 @@
+>> ${leave_alone!}
+>> ${USER}: user
+>> Currently on ${PWD}=/home
+>> 

@@ -1,0 +1,5 @@
+>> /usr/bin/core_perl/:/usr/local/sbin:/usr/local/bin:/usr/local/go/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/android-sdk/emulator:/opt/android-sdk/cmdline-tools/latest/bin:/opt/android-sdk/platform-tools:/opt/apache-spark/bin:/opt/apache-spark/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+>> Prompt for this shell is >> 
+>> 1.0 version
+>> directory:/home
+>> >> 

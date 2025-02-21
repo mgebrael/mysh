@@ -1,0 +1,6 @@
+cd /home/tests/end_to_end_tests/pipe_within_var
+pwd
+var myvar "-s"
+var flag "${myvar}"
+var ${flag} result "head -n 20 dictionary.txt | sort -rh | uniq -i | cat"
+echo "${result}"

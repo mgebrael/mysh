@@ -1,0 +1,3 @@
+echo \${leave_alone!}
+echo "\${USER}: ${USER}"
+echo 'Currently on \${PWD}=${PWD}'

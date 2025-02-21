@@ -1,0 +1,4 @@
+mysh: command not found: delete
+mysh: no such file or directory: invisible/folder
+mysh: no such file or directory: /deleted/command
+mysh: is a directory: /home

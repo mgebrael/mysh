@@ -1,0 +1,2 @@
+mysh: permission denied: ./mysh.py
+mysh: is a directory: ../.

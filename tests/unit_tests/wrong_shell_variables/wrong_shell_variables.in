@@ -1,0 +1,5 @@
+${invalid!characters}
+echo ${^_^} ${(and)} ${*more}
+echo no variable ${not_a_variable}
+echo empty ${} variables ${} are ${} ignored
+-${---}

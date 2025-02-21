@@ -1,0 +1,4 @@
+>> /home
+>> >> /usr/local/share/man
+>> /usr/local/man
+>> >> 
